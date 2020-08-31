@@ -5,3 +5,5 @@ bak:
 	brew bundle dump --describe --force --file="./Brewfile"
 res:
 	brew bundle --file="./Brewfile"
+resf:
+	export HOMEBREW_NO_AUTO_UPDATE=true && brew bundle --file='./Brewfile'
