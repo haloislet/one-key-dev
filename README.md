@@ -7,4 +7,5 @@ one key backup and restore mac
 - [ ] backup config
 - [ ] backup third-party software
 - [x] backup software list
+- [x] Sync files to iCloud
 - [ ] add crontab schedules
