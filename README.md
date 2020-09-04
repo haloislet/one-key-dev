@@ -6,5 +6,5 @@ one key backup and restore mac
 
 - [ ] backup config
 - [ ] backup third-party software
-- [ ] backup software list
+- [x] backup software list
 - [ ] add crontab schedules
